@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://grink2bag.github.io/index-hthcn-com-cn/sitemap.xml
